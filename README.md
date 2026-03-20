@@ -24,16 +24,6 @@ Resolve360 is a **Gen-AI powered unified complaint management system** that:
 - Provides analytics for root cause detection  
 
 
-## ⚙️ System Architecture
-
-![Architecture](./assets/architecture.png)
-
-
-## 🔄 Workflow
-
-![Workflow](./assets/workflow.png)
-
-
 ## ✨ Key Features
 
 - 🔍 AI Complaint Classification  
@@ -42,17 +32,6 @@ Resolve360 is a **Gen-AI powered unified complaint management system** that:
 - 🤖 AI Response Generation  
 - 📊 Analytics Dashboard  
 
-
-## 🖥️ Demo Screenshots
-
-### Dashboard View
-![Dashboard](./assets/dashboard.png)
-
-### Complaint View
-![Complaint](./assets/complaint.png)
-
-### AI Response Suggestion
-![AI Response](./assets/ai-response.png)
 
 
 ## 🛠 Tech Stack
